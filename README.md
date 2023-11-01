@@ -15,6 +15,9 @@
   
   ## Installation
   Clone the repo using git clone, use npm i within your command line application
+
+  View a video of the application in use here [![Recording 2023-11-01 140145 - frame at 0m4s](https://github.com/Roqieux/README-generator/assets/133982261/069cb8d6-8e81-4af2-a00f-092d857ba513)]
+(https://drive.google.com/file/d/1x8EAGzuJqfSlbgdkh6k9XUrpdKnYgeTj/view?usp=sharing)
   
   ## Usage
   run the application using the command node index.js
